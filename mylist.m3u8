@@ -1,11 +1,4 @@
 #EXTM3U
-
-************************  19/DIC/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
-************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
-***********************************************************************************************************************************************
-******************************************************     PROPIO     *************************************************************************
-******************************************************     BICS MX     *************************************************************************
-
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 group-title="Bics MX", MX: AZTECA UNO -1 HR
@@ -122,12 +115,8 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3/1660000.m3u8
 #EXTINF:-1 group-title="Bics Latino", VE: TELESUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
-
-****** 01 *****
-
 #EXTINF:-1 group-title="Bics US", US: WGN
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129979.m3u8
-
 #EXTINF:-1 group-title="Bics US", CA: CTV
 http://tvmate.icu:8080/live/7686199/9576982/47234.m3u8
 #EXTINF:-1 group-title="Bics US", CA: CTV DRAMA
@@ -143,15 +132,12 @@ https://fl2.moveonjoy.com/EPIX/index.m3u8
 https://fl5.moveonjoy.com/EPIX_2/index.m3u8
 #EXTINF:-1 group-title="Bics US", US: EPIX HITS
 https://fl5.moveonjoy.com/EPIX_HITS/index.m3u8
-
 #EXTINF:-1 group-title="Bics US", US: MGM +
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129987.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", US: ESPN
 http://tvmate.icu:8080/live/7686199/9576982/14197.m3u8
 #EXTINF:-1 group-title="Bics US", US: UNIVISION
 http://tvmate.icu:8080/live/7686199/9576982/15336.m3u8
-
 #EXTINF:-1 group-title="Bics US", US: PARAMOUNT NETWORK
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
@@ -164,7 +150,6 @@ http://fl5.moveonjoy.com/ESPN_2/index.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", US: FS 1
 http://fl4.moveonjoy.com/FOX_Sports_1/index.m3u8
-
 #EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
 http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", US: YES NETWORK
