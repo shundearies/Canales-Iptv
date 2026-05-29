@@ -898,5 +898,205 @@
     "nombre": "+Cine war",
     "logo": "https://m.media-amazon.com/images/I/71D68ghDyNL._AC_UF894,1000_QL80_FMwebp_.jpg",
     "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=265_"
+  },
+   {
+    "nombre": "Play Boy",
+    "logo": "https://seeklogo.com/images/P/playboy-logo-AE40B49AF6-seeklogo.com.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=27_"
+  },
+    {
+    "nombre": "VENUS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/330px-Canal_Venus_logo_%282%29.svg.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=260_"
+  },
+   {
+    "nombre": "TUDN",
+    "logo": "https://play-lh.googleusercontent.com/fisQ9nQ_TEtyvdMNLKfjxfuJEJQHvH5Dm6WTDeD95KjzzVRl2Pdeq8nys7eFid6Wvw",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "Dsports",
+    "logo": "http://latinapro.net:25461/images/cc0014b2e16037b5dcb3befb062e3f3e.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=3_"
+  },
+    {
+    "nombre": "TNT Sports Premium",
+    "logo": "http://latinapro.net:25461/images/631461f8e5cf7fc21429e0649583c3ef.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=4_"
+  },
+    {
+    "nombre": "ESPN",
+    "logo": "http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=5_"
+  },
+    {
+    "nombre": "TyC SPORTS",
+    "logo": "http://latinapro.net:25461/images/77eee83ffdb378dee7f117f9a05bb865.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=6_"
+  },
+    {
+    "nombre": "Fox Sports",
+    "logo": "http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=8_"
+  },
+    {
+    "nombre": "Fox sports 2",
+    "logo": "http://latinapro.net:25461/images/3242949a653f4cf5ced117ea877ebfb5.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=9_"
+  },
+    {
+    "nombre": "Fox Sports 3",
+    "logo": "http://latinapro.net:25461/images/820b128c3afc31349237f2c4f9689d6c.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=10_"
+  },
+    {
+    "nombre": "DSpsports+",
+    "logo": "http://latinapro.net:25461/images/1cb727ee6749459347f0cbfed1761a54.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=11_"
+  },
+    {
+    "nombre": "FS PREMIUM ",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=12_"
+  },
+    {
+    "nombre": "SC Sports Center",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sports_Center_logo.svg/500px-Sports_Center_logo.svg.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=13_"
+  },
+    {
+    "nombre": "ESPN 2",
+    "logo": "http://latinapro.net:25461/images/973822139bde28ada94071e8bf9479b9.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=14_"
+  },
+    {
+    "nombre": "ESPN 3",
+    "logo": "http://latinapro.net:25461/images/6e22b09ece58db8c5692ee8c88415334.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=15_"
+  },
+    {
+    "nombre": "FOX Sports",
+    "logo": "http://latinapro.net:25461/images/b88ab5a849ebacbea981467921da314d.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=16_"
+  },
+    {
+    "nombre": "FOX SPORTS 2",
+    "logo": "http://latinapro.net:25461/images/2bf9d282fc831b08d0adac0841918f9e.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=17_"
+  },
+    {
+    "nombre": "ESPN",
+    "logo": "http://latinapro.net:25461/images/ef0217f6c67ee4c1f840322a0fc4c610.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=19_"
+  },
+    {
+    "nombre": "ESPN 3",
+    "logo": "http://latinapro.net:25461/images/6e22b09ece58db8c5692ee8c88415334.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=21_"
+  },
+    {
+    "nombre": "L1 Max",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jN4beKo2S793wY2X4JtMRx2mdmHt2EWZRQ&s",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=22_"
+  },
+    {
+    "nombre": "ESPN 4",
+    "logo": "http://latinapro.net:25461/images/6e7e3ae19e640f77019d8f73a3ba0608.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=23_"
+  },
+    {
+    "nombre": "ESPN 5",
+    "logo": "http://latinapro.net:25461/images/907085002d003a37bd34affa1bb4633b.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=24_"
+  },
+    {
+    "nombre": "ESPN 6",
+    "logo": "http://latinapro.net:25461/images/2ef5557a4324ad01fba06cd598d75806.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=25_"
+  },
+    {
+    "nombre": "ESPN 7",
+    "logo": "http://latinapro.net:25461/images/2b2c5781d9e86e8b8ba6bc66f79fdb88.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=26_"
+  },
+    {
+    "nombre": "DAZN",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB_B1PBTUs2LMDpC9wcrUqby79lz1af2f_9g&s",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=27_"
+  },
+    {
+    "nombre": "DAZN 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfG_obVAL58JVH3hWlek_n5Ck0FUI71LtLuA&s",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=28_"
+  },
+    {
+    "nombre": "M+",
+    "logo": "http://latinapro.net:25461/images/e4f107b9d3de1ac61a95179a92d9fcb2.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=29_"
+  },
+    {
+    "nombre": "bein Sports extra",
+    "logo": "http://latinapro.net:25461/images/b6f6502d89486343cfd75ad11d2898d7.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=31_"
+  },
+    {
+    "nombre": "Movistar 4",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw8X3bt5qZfD8bRmJ2juSUS1XCyHBsy-AOXg&s",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=32_"
+  },
+    {
+    "nombre": "Tv Azteca Deportes Network",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh7SgjT20XBllN8n5lpm-8ziXqPNXl_OSnsg&usqp=CAU",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=34_"
+  },
+    {
+    "nombre": "TNT SPORTS Premium",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNzRaEF7sInMKci-9xC-vXIBVl7h2h9v35ww&usqp=CAU",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=35_"
+  },
+    {
+    "nombre": "Sky Sports La Liga",
+    "logo": "http://mundo2.pro:80/images/9b522a6209596c2b7b32657412962238.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=37_"
+  },
+    {
+    "nombre": "ESPN 5",
+    "logo": "http://mundo2.pro:80/images/4d26ed5201c19cba093c70c98482645c.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=38_"
+  },
+    {
+    "nombre": "L1",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrfURPHcJblk8-4OwMaBBYfg1Gb7ZchC0yQ&s",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=39_"
+  },
+    {
+    "nombre": "SKY Sports La Liga",
+    "logo": "http://latinapro.net:25461/images/JLwVVWwPe66JPFb0ohRtGwnq65W-MhikEta7rXyMmkCYOwQsnHR17R1WeqJLC7Efq3XJluRJLcWZb3nvrKUjJpHbs1p553lKY16LdXsWgAnP-JMk-ZPtifIwrFJA88B7RrlRR2yU26mMLKk48YTpmewmG4hqf_5oij7wtEPg3Wc.jpg",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=40_"
+  },
+    {
+    "nombre": "ESPN",
+    "logo": "http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=42_"
+  },
+    {
+    "nombre": "ESPN Futbol",
+    "logo": "http://latinapro.net:25461/images/e1bd9e9008c137da501e5e0dca12d8b9.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=43_"
+  },
+    {
+    "nombre": "NFL Network",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=44_"
+  },
+    {
+    "nombre": "azteca 7",
+    "logo": "https://imagenes.gatotv.com/logos/canales/claros/nfl_network-mediano.png",
+    "url": "https://regionales.saohgdasregions.fun/tvporinternet3.php?stream=1_"
+  },
+    {
+    "nombre": "NBA Entertainment",
+    "logo": "https://cdn.mitvstatic.com/channels/co_nba-tv-hd_m.png",
+    "url": "https://deportes.ksdjugfsddeports.com/tvporinternet3.php?stream=45_"
   }
 ]
