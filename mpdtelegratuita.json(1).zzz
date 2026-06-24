@@ -27,7 +27,7 @@
   {
     "nombre": "MVS TV",
     "logo": "https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png",
-    "url": "https://telegratuita.Net/hls.php?get=Ly9kaXNoLmFrYW1haXplZC5uZXQvQ29udGVudC9ITFNfSExTX0NMUi9MaXZlL2NoYW5uZWwobXZzKS92YXJpYW50Lm0zdTg="
+    "url": "http://181.78.17.52:8000/play/a0yj/index.m3u8"
   },
     {
     "nombre": "TV Pacifico Culiacan",
