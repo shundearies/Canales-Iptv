@@ -1,0 +1,1182 @@
+[
+    {
+    "nombre": "Multimedios CD MX",
+    "logo": "http://ceoapps.org/logos/multimedios2.png",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+  },
+  {
+    "nombre": "mutimedios Guadalajara",
+    "logo": "http://ceoapps.org/logos/multimedios2.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXBsYXlsaXN0LzVjNTRkMzhjYTM5MmE1MTE5YmIwYWEwZC5tM3U4"
+  },
+    {
+    "nombre": "Mutimedios Monterrey",
+    "logo": "http://ceoapps.org/logos/multimedios2.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXBsYXlsaXN0LzU3YjRkYmY1ZGJiZmM4ZjE2YmI2M2NlMS5tM3U4"
+  },
+  {
+    "nombre": "Multimedios Puebla",
+    "logo": "http://ceoapps.org/logos/multimedios2.pngg",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXBsYXlsaXN0LzVkNTZlZDI5YzkyZGQxMDZmZjAxNTQzYi5tM3U4"
+  },
+    {
+    "nombre": "Imagen Televisión Internacional",
+    "logo": "http://ceoapps.org/logos/imagentelevision.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9pZ2QtaXQtcnVudGltZS5vdHRlcmF2aXNpb24uY29tL2lnZC9pdC9pdC5tM3U4"
+  },
+  {
+    "nombre": "MVS TV",
+    "logo": "https://mvstv.com/wp-content/uploads/2020/08/cropped-mvstv_logo_wt-3.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9kaXNoLmFrYW1haXplZC5uZXQvQ29udGVudC9ITFNfSExTX0NMUi9MaXZlL2NoYW5uZWwobXZzKS92YXJpYW50Lm0zdTg="
+  },
+    {
+    "nombre": "TV Pacifico Culiacan",
+    "logo": "https://dev.tvpacifico.mx/images/_tvp/logos/logo_tvp_liderentelevisionlocal.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly81Y2EzZTg0YTc2ZDMwLnN0cmVhbWxvY2submV0L2dwYWNpZmljbzEvZ3BjdWxpYWNhbi5zbWlsLy5tM3U4"
+  },
+  {
+    "nombre": "Tv Pacifico Mochis",
+    "logo": "https://dev.tvpacifico.mx/images/_tvp/logos/logo_tvp_liderentelevisionlocal.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly81Y2EzZTg0YTc2ZDMwLnN0cmVhbWxvY2submV0L2dwYWNpZmljbzIvbW9jaGlzLnNtaWwvLm0zdTg="
+  },
+    {
+    "nombre": "TV Pacifico Mazatlán",
+    "logo": "https://dev.tvpacifico.mx/images/_tvp/logos/logo_tvp_liderentelevisionlocal.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly81Y2EzZTg0YTc2ZDMwLnN0cmVhbWxvY2submV0L2dwYWNpZmljbzQvbWF6YXRsYW4uc21pbC8ubTN1OA=="
+  },
+    {
+    "nombre": "CBS",
+    "logo": "http://mundo2.pro:80/images/b9e93408f84a09155d10c54e79a52deb.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9jYnNuLXVzLmNic25zdHJlYW0uY2JzbmV3cy5jb20vb3V0L3YxLzU1YTg2NDhlOGYxMzRlODJhNDcwZjgzZDU2MmRlZWNhL21hc3Rlci5tM3U4"
+  },
+  {
+    "nombre": "CBS MIAMI",
+    "logo": "http://mundo2.pro:80/images/09e63cb1af26d22f6c6e79bf0252a8c7.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9jYnNuLW1pYS5jYnNuc3RyZWFtLmNic25ld3MuY29tL291dC92MS9hYzE3NGI3OTM4MjY0ZDI0YWUyN2U1NmY2NTg0YmNhMC9tYXN0ZXIubTN1OA=="
+  },
+  {
+    "nombre": "Fox Warher",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Fox-weather-logo-stacked-color.svg/500px-Fox-weather-logo-stacked-color.svg.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly8yNDd3bGl2ZS5mb3h3ZWF0aGVyLmNvbS9zdHJlYW0vaW5kZXgubTN1OA=="
+  },
+  {
+    "nombre": "Fox 4",
+    "logo": "https://play-lh.googleusercontent.com/7wQm4MXvFQSyB6aqjMifgKHw7wxyZTRWpwnbRl2rX6p7Mao4Mua-EdI99z_adgzYEA",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9jb250ZW50LnVwbHluay5jb20vY2hhbm5lbC84OTc1ZjgxZTZlZmQ0ZTYwOTg3M2MzZThlMjVjNzc1Ni5tM3U4"
+  },
+  {
+    "nombre": "NBC News",
+    "logo": "http://latinapro.net:25461/images/76de322bea5ea48a6adfea4c0c3fd443.jpg",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9hcG9sbG8ucHJvZHVjdGlvbi1wdWJsaWMudHViaS5pby9saXZlL25iYy1uZXdzLW5vdy00U1hkc3EubTN1OA=="
+  },
+  {
+    "nombre": "USA Today",
+    "logo": "https://play-lh.googleusercontent.com/aaMI1sQacFxeudBB81-fPIkpiu4M1fXpRX4FMPwWOJ8yuhk8t4cvzu65r7VrFrd9bg",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9hbWcwMDczMS1nYW5uZXR0Y29pbmMtdXNhdG9kYXluZXdzLXBsZXgtcjQ1ZHouYW1hZ2kudHYvcGxheWxpc3QvYW1nMDA3MzEtZ2FubmV0dGNvaW5jLXVzYXRvZGF5bmV3cy1wbGV4L3BsYXlsaXN0Lm0zdTg="
+  },
+  {
+    "nombre": "Florida Channel",
+    "logo": "https://thefloridachannel.org/wp-content/uploads/logo-primary-1.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9jZG5hcGlzZWMua2FsdHVyYS5jb20vcC8yNTkzMzExL3NwLzI1OTMzMTEwMC9wbGF5TWFuaWZlc3QvZW50cnlJZC8xX3c5MGppdHQ4L3Byb3RvY29sL2h0dHBzL2Zvcm1hdC9hcHBsZWh0dHAvZmxhdm9ySWRzLzFfOXF4czFmbWUsMV9tZWRqdHRydSwxX2J0M3lrM2szLDFfYXR5MXM5dXIvYS5tM3U4"
+  },
+  {
+    "nombre": "Tiva TV",
+    "logo": "https://tivatv.com/wp-content/uploads/2025/01/TiVA-8-Logo-With-Shadow-1536x593.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9saW5rLmZyb250bGF5ZXIuY29tL3NlcnZpY2VzL2hsczIvZmw0OTY1MTgvaW5kZXgubTN1OA"
+  },
+  {
+    "nombre": "Telemundo Puerto Rico",
+    "logo": "http://latinapro.net:25461/images/29954f763db683bddfe240c844a28d13.jpg",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9uYmN1bG9jYWxsaXZlLmFrYW1haXplZC5uZXQvaGxzL2xpdmUvMjAzNzQ5OS9wdWVydG9yaWNvL3N0cmVhbTEvbWFzdGVyLm0zdTg="
+  },
+  {
+    "nombre": "Vea canal",
+    "logo": "https://veacanal.tv/sitio/wp-content/uploads/2017/05/logoveacanal.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly9wbGF5ZXIua2ljay5jb20vdmVhY2FuYWx0dg=="
+  },
+  {
+    "nombre": "Latina",
+    "logo": "http://latinapro.net:25461/images/b42ca4c6fc83b1689e9f0fa18698de14.jpg",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9saXZlLWV2ZzcudHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL2xhdGluYV9hYnIvcGxheWxpc3QubTN1OA=="
+  },
+  {
+    "nombre": "Latina televisión",
+    "logo": "http://latinapro.net:25461/images/b42ca4c6fc83b1689e9f0fa18698de14.jpg",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9qaXJlaC0zLWhscy12aWRlby11cy1pc3AuZHBzLmxpdmUvaGxzLXZpZGVvLzU2N2ZmZGUzZmEzMTlmYWRmMzQxOWVmZGEyNTYxOTQ1NjIzMWRmZWEvbGF0aW5hL2xhdGluYS5zbWlsL3BsYXlsaXN0Lm0zdTg/ZHBzc2lkPWIyMTczNjYyMTA5NDY5MTI0Y2Y0MmYzMjEmc2lkPWJhNXQxbDF4YjI0NzE1ODM4NDE2OTEyNGNmNTBmZGEyJm5kdmM9MA=="
+  },
+  {
+    "nombre": "Willax",
+    "logo": "http://latinapro.net:25461/images/d9b8e0d5831cacb4c7183526a992ce98.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9saXZlLWV2ZzcudHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL3dpbGxheF9hYnIvcGxheWxpc3QubTN1OA=="
+  },
+  {
+    "nombre": "Venevision",
+    "logo": "http://mundo2.pro:80/images/79346a35f0c3e6ff1157a35421d37a23.png",
+    "url": "https://telegratuita.net/hls.php?get=Ly92ZXBsdXMtaW9yaXZlci1jZG4uZW5jb2RlcnMuaW1tZXJnby50di9tYXN0ZXIubTN1OA=="
+  },
+  {
+    "nombre": "FX",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9Zng="
+  },
+  {
+    "nombre": "FX",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2l6L2Z4LnBocA=="
+  },
+  {
+    "nombre": "AXN",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YXhu"
+  },
+  {
+    "nombre": "AXN",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2l6L2F4bi5waHA="
+  },
+  {
+    "nombre": "A&E",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YXll"
+  },
+  {
+    "nombre": "A&E",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2FlLnBocA=="
+  },
+  {
+    "nombre": "AMC",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YW1j"
+  },
+  {
+    "nombre": "AMC",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2FtYy5waHA="
+  },
+  {
+    "nombre": "AMC Series",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YW1jcw=="
+  },
+  {
+    "nombre": "AMC Series",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3NrL3Bydi5waHA/aWQ9YW1jcw=="
+  },
+  {
+    "nombre": "CINEMAX",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9Y2luZW1heA=="
+  },
+  {
+    "nombre": "Cinemax",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2NpbmVtYXgucGhw"
+  },
+  {
+    "nombre": "CineCanal",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2NpbmVjYW5hbC5waHA="
+  },
+  {
+    "nombre": "Adult Swim",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9c3dpbQ=="
+  },
+  {
+    "nombre": "Adult Swim",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2FkdWx0c3dpbS5waHA="
+  },
+  {
+    "nombre": "DHE",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/reproductor?r=L3ByZW1pdW0vcGxheWVyLnBocD9jYW5hbD1kaGU="
+  },
+  {
+    "nombre": "DHE",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2RoZS5waHA="
+  },
+  {
+    "nombre": "DHE",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2RoZS5waHA="
+  },
+  {
+    "nombre": "Sony Channel",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD1zb255"
+  },
+  {
+    "nombre": "Sony Channel",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3NvbnkucGhw"
+  },
+  {
+    "nombre": "Star Channel",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD1zdGFy"
+  },
+  {
+    "nombre": "Star Channel",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3N0YXIucGhw"
+  },
+  {
+    "nombre": "Studio Universal",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2NoLnBocD9pZD1zdHVkaW91bml2ZXJzYWw="
+  },
+  {
+    "nombre": "studio Universal",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3N0dWRpby5waHA="
+  },
+  {
+    "nombre": "TNT",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD10bnQ="
+  },
+  {
+    "nombre": "TNT",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3RudC5waHA="
+  },
+  {
+    "nombre": "TNT Series",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD10bnRzZXJpZXM="
+  },
+  {
+    "nombre": "TNT Series",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3RudHNlcmllcy5waHA="
+  },
+  {
+    "nombre": "TCM",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3RjbS5waHA="
+  },
+  {
+    "nombre": "USA Network Latinoamerérica",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9dXNh"
+  },
+  {
+    "nombre": "Warner Bross",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD13YXJuZXI="
+  },
+  {
+    "nombre": "Warner TV",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3dhcm5lci5waHA="
+  },
+  {
+    "nombre": "Universal Studio",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/iz/studio.php?jwsource=cl"
+  },
+  {
+    "nombre": "Universal Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3VuaXZlcnNhbHR2LnBocA=="
+  },
+  {
+    "nombre": "Universal Cinemax",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9dWNpbmVtYQ=="
+  },
+  {
+    "nombre": "Univerdal Comedy",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9dWNvbWVkeQ=="
+  },
+  {
+    "nombre": "Univerdal Crimen",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9dWNyaW1l"
+  },
+  {
+    "nombre": "Universal Premier",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9dXByZW1pZXJl"
+  },
+  {
+    "nombre": "Universal Premier",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2tsL3VuaXZlcnNhbHByZW1pZXJlLnBocA=="
+  },
+  {
+    "nombre": "Univerdal reality",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9dXJlYWxpdHk="
+  },
+  {
+    "nombre": "Golden",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9Z29sZGVu"
+  },
+  {
+    "nombre": "Golden",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://teledeportes.Net/tv/prv.php?id=golden"
+  },
+  {
+    "nombre": "Golden Edge",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9Z29sZGVuZWRnZQ=="
+  },
+  {
+    "nombre": "Golden Edge",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://teledeportes.Net/tv/prv.php?id=edge"
+  },
+  {
+    "nombre": "Golden Plus",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9Z29sZGVucGx1cw=="
+  },
+  {
+    "nombre": "Golden Plus",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9Z29sZGVucGx1cw=="
+  },
+  {
+    "nombre": "Golden Premier",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9Z29sZGVucHJlbWllcg==&jwsource=cl"
+  },
+  {
+    "nombre": "Golden Premier",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3R4VjI2cWd5SmFHNVo="
+  },
+  {
+    "nombre": "Golden premier",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9Z29sZGVucHJlbWllcg=="
+  },
+  {
+    "nombre": "D Pelicula",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3Q5QlE2ZEw3R3F4TzA="
+  },
+  {
+    "nombre": "D pelicula",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2RlcGVsaWN1bGEucGhw"
+  },
+  {
+    "nombre": "D pelicula Plus",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3RaMEp3ZE9SRXF5eHA="
+  },
+  {
+    "nombre": "D Pelicula Plus",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2RlcGVsaWN1bGFwbHVzLnBocA=="
+  },
+  {
+    "nombre": "Distrito comedia",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9ZGlzdHJpdG8="
+  },
+  {
+    "nombre": "Distrito Comedia",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2Rpc3RyaXRvY29tZWRpYS5waHA="
+  },
+  {
+    "nombre": "Distrito Comedia",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3RXTXdyYVIzUE5aelI="
+  },
+  {
+    "nombre": "Cine Latino",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2NpbmVsYXRpbm8ucGhw"
+  },
+  {
+    "nombre": "Multipremier",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3R2L3Bydi5waHA/aWQ9bXVsdGlwcmVtaWVy"
+  },
+  {
+    "nombre": "Bitme",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3ByaS5waHA/aWQ9Yml0bWU="
+  },
+  {
+    "nombre": "Bitme",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2JpdG1lLnBocA=="
+  },
+  {
+    "nombre": "Bitme",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2l6L2JpdG1lLnBocA=="
+  },
+  {
+    "nombre": "Baby Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2JhYnl0di5waHA="
+  },
+  {
+    "nombre": "Cartton Network",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9Y2FydG9vbm5ldHdvcms="
+  },
+  {
+    "nombre": "Cartoonitos",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9Y2FydG9vbml0bw=="
+  },
+  {
+    "nombre": "Dicovery Kids",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9ZGlzY292ZXJ5a2lkcw=="
+  },
+  {
+    "nombre": "Disney Channel",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9ZGlzbmV5Y2hhbm5lbA=="
+  },
+  {
+    "nombre": "Disney Jr",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9ZGlzbmV5anI="
+  },
+  {
+    "nombre": "Nick",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2l6L25pY2ttZXgucGhw"
+  },
+  {
+    "nombre": "Nick",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L25pY2ttZXgucGhw"
+  },
+  {
+    "nombre": "Nick Jr",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9bmlja2py"
+  },
+  {
+    "nombre": "Toonscats",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD10b29uY2FzdA=="
+  },
+  {
+    "nombre": "Dreamwork",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9ZHJlYW13b3Jrcw==&jwsource=cl"
+  },
+  {
+    "nombre": "Boing",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2NoL2JvaW5nLnBocA=="
+  },
+  {
+    "nombre": "ETC",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3ByZW1pdW0vcGxheWVyMS5waHA/Y2FuYWw9ZXRj"
+  },
+  {
+    "nombre": "MTV",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9bXR2"
+  },
+  {
+    "nombre": "Comcert Channel",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMudG9wL2NoLnBocD9pZD1jb25jZXJ0"
+  },
+  {
+    "nombre": "HTV",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByZW1pdW0vcGxheWVyMS5waHA/Y2FuYWw9aHR2"
+  },
+  {
+    "nombre": "HTV",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2h0di5waHA="
+  },
+  {
+    "nombre": "Telehit",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3RlbGVoaXQucGhw"
+  },
+  {
+    "nombre": "Telehit",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3RlbGVoaXQucGhw"
+  },
+  {
+    "nombre": "Telehit Musica",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9dGVsZWhpdG11c2ljYQ=="
+  },
+  {
+    "nombre": "Telehit Musica",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9dGVsZWhpdG11c2ljYQ==&jwsource=cl"
+  },
+  {
+    "nombre": "Telehit Plus",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9dGVsZWhpdG11c2ljYXBsdXM="
+  },
+  {
+    "nombre": "Telehit Musica Plus",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9dG1wbHVz&jwsource=cl"
+  },
+  {
+    "nombre": "Bandamax",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9YmFuZGFtYXg="
+  },
+  {
+    "nombre": "Europlus",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly92ay5jb20vdmlkZW9fZXh0LnBocD9vaWQ9LTIyMTg2MTU2JmlkPTQ1NjIzOTYxNyZhdXRvcGxheT0x"
+  },
+  {
+    "nombre": "Kiss Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2hsc19wbGF5ZXIucGhwP2dldD1MeTkwZGk1aWNtOWhaR05oYzNScGJtY3VjbTh2YTJsemMzUjJMMkUyTWpsak1ETXhMVEl4TnpBdE5HVmxPUzFoTXpaa0xUZzNZVGc1TVdGaE16RXpNUzV0TTNVNA=="
+  },
+  {
+    "nombre": "Rock Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/reproductor/?r=L2hsc19wbGF5ZXIucGhwP2dldD1MeTkwZGk1aWNtOWhaR05oYzNScGJtY3VjbTh2Y205amEzUjJMemcxWXpnellUZ3dMVFJtTnpFdE5HWXlaQzFoT0dRMkxUUXpaalkzTmpnNU5tSmpZaTV0TTNVNA=="
+  },
+  {
+    "nombre": "Retro music Television",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2hsc19wbGF5ZXIucGhwP2dldD1MeTl6ZEhKbFlXMHViV1ZrYVdGM2IzSnJMbU42TDNKbGRISnZkSFl2Y21WMGNtOTBkakl1YzIxcGJDOHViVE4xT0E9PQ=="
+  },
+  {
+    "nombre": "Radio 105 Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2Rhc2gucGhwP2dldD1MeTlzYVhabE1ETXRZMjlzTG0xemNpNWpaRzR1YldWa2FXRnpaWFF1Ym1WMEwyeHBkbVV2WTJndFpXTXZaV010WTJ4eUxtbHpiV3d2YldGdWFXWmxjM1JmYUhJdWJYQms="
+  },
+  {
+    "nombre": "Ru Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2hsc19wbGF5ZXIucGhwP2dldD1MeTlvYkhNdE1ETXRkbWxrWlc4dWQyVmlZMkZ5WVcxaVlTNWpiMjB2Y25WMGRpOXNhWFpsTG0wemRUZz0="
+  },
+  {
+    "nombre": "Musica Top",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/reproductor/?r=L2hsc19wbGF5ZXIucGhwP2dldD1MeTl6ZEhKbFlXMHRaM1JzWXk1MFpXeGxZMlZ1ZEhKdkxtNWxkQzVoY2k5b2JITXZiWFZ6YVdOMGIzQm9iSE12TUM5d2JHRjViR2x6ZEM1dE0zVTQ="
+  },
+  {
+    "nombre": "EXA Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2hsc19wbGF5ZXIucGhwP2dldD1MeTl0ZG5NdGJHbDJaUzVrWVdsdmJtTmtiaTV1WlhRdlpYaGhkSFl2WlhoaGRIWXViVE4xT0E9PQ=="
+  },
+  {
+    "nombre": "Mi Gente Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2hsc19wbGF5ZXIucGhwP2dldD1MeTlpZVdWallXSnNaV2x3ZEhadVpYY3pMbVJrYm5NdWJtVjBMMFZPVmtsV1QwMUpSMFZPVkVVdmFXNWtaWGd1YlROMU9BPT0="
+  },
+  {
+    "nombre": "Venus Media",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/reproductor/?r=L2hsc19wbGF5ZXIucGhwP2dldD1MeTkwYVdkdlkyeHZkV1F1WkdWelpHVndZWEpoWjNWaGVTNXVaWFF2ZG1WdWRYTnRaV1JwWVM5MlpXNTFjMjFsWkdsaEx5NXRNM1U0"
+  },
+  {
+    "nombre": "Pasiones",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMudG9wL2NoLnBocD9pZD1wYXNpb25lcw=="
+  },
+  {
+    "nombre": "Pasiones",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2l6L3Bhc2lvbmVzLnBocA=="
+  },
+  {
+    "nombre": "Telemundo",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9dGVsZW11bmRvMQ==&jwsource=cl"
+  },
+  {
+    "nombre": "Telemundo",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9dGVsZW11bmRvMg=="
+  },
+  {
+    "nombre": "Telemundo",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9dGVsZW11bmRvMw=="
+  },
+  {
+    "nombre": "Telemundo",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD10ZWxlbXVuZG8="
+  },
+  {
+    "nombre": "Telemundo",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9uYmN1LXRlbGVtdW5kb2Zsb3JpZGEtZmlyZXR2LmFtYWdpLnR2L3BsYXlsaXN0Lm0zdTg="
+  },
+  {
+    "nombre": "Telemundo",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMudG9wL2NoLnBocD9pZD10ZWxlbXVuZG9pbnRlcm5hY2lvbmFs"
+  },
+  {
+    "nombre": "TL Novelas",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9dGxub3ZlbGFz"
+  },
+  {
+    "nombre": "TL Novelas",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3R2L3Bydi5waHA/aWQ9dG50bm92ZWxhcw=="
+  },
+  {
+    "nombre": "TNT Novelas",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD10bnRub3ZlbGFz"
+  },
+  {
+    "nombre": "TNT Novelas",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L3RudG5vdmVsYXMucGhw"
+  },
+  {
+    "nombre": "RCN Novelas",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3NrL3Jjbi1ub3ZlbGFzLnBocA=="
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YXp0ZWNhNw=="
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXBsYXlsaXN0LzYwOWFkNDZhN2E0NDExMzcxMDdkN2E4MS5tM3U4"
+  },
+  {
+    "nombre": "Azteca Uno",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3R2L3Bydi5waHA/aWQ9YXp0ZWNhdW5v"
+  },
+  {
+    "nombre": "Azteca Uno",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9zdHJlYW0uYWRzLm90dGVyYS50di9wbGF5bGlzdC5tM3U4P25ldHdvcmtfaWQ9NDgzMw=="
+  },
+  {
+    "nombre": "Azteca Uno",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXBsYXlsaXN0LzYwOWIyNDMxNTZjY2ExMDgzMTI4MjJhNi5tM3U4"
+  },
+  {
+    "nombre": "Azteca Cinema",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9YXpjaW5lbWE="
+  },
+  {
+    "nombre": "Canal 5",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9Y2FuYWw1"
+  },
+  {
+    "nombre": "Canal 5",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2dsb2JhbDEucGhwP3N0cmVhbT1jYW5hbDVteA=="
+  },
+  {
+    "nombre": "Sky One",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3R2L3Bydi5waHA/aWQ9bXR2aGl0cw=="
+  },
+  {
+    "nombre": "Singray concert",
+    "logo": "https://peticion.com/logo.png",
+    "url": "HTTPS://telegratuita.Net/repro/?r=L3R2L3Bydi5waHA/aWQ9c3RpbmdyYXljb25jZXJ0cw=="
+  },
+  {
+    "nombre": "Stingray Clasica",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3R2L3Bydi5waHA/aWQ9c3RpbmdyYXljbGFzaWNh"
+  },
+  {
+    "nombre": "Stingray Hit",
+    "logo": "https://peticion.com/logo.png",
+    "url": "HTTPS://telegratuita.Net/repro/?r=L3R2L3Bydi5waHA/aWQ9c3RpbmdyYXloaXRz"
+  },
+  {
+    "nombre": "Stingray Reto",
+    "logo": "https://peticion.com/logo.png",
+    "url": "HTTPS://telegratuita.Net/repro/?r=L3R2L3Bydi5waHA/aWQ9c3RpbmdyYXlyZXRybw=="
+  },
+  {
+    "nombre": "Stingray Juice",
+    "logo": "https://peticion.com/logo.png",
+    "url": "HTTPS://telegratuita.Net/repro/?r=L3R2L3Bydi5waHA/aWQ9c3RpbmdyYXlqdWljZWJveA=="
+  },
+  {
+    "nombre": "Univision",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD11bml2aXNpb24="
+  },
+  {
+    "nombre": "Unimas",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=L2NvcnMtcHJveHkucGhwP3VybD1odHRwczovL3N0cmVhbWluZy1saXZlLWZjZG4uYXBpLnByZC51bml2aXNpb25ub3cuY29tL2tmdHIva2Z0ci5pc21sL2hscy9rZnRyLm0zdTg"
+  },
+  {
+    "nombre": "Universo",
+    "logo": "https://peticion.com/logo.png",
+    "url": "HTTPS://telegratuita.Net/repro/?r=L3NwLnBocD9nZXQ9aHR0cHM6Ly9ib2xhbG9jYS5teS9wbGF5ZXIvMy83Mg=="
+  },
+  {
+    "nombre": "Universo",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3NwLnBocD9nZXQ9aHR0cHM6Ly9ib2xhbG9jYS5teS9wbGF5ZXIvMy83Mg=="
+  },
+  {
+    "nombre": "Las Estrellas",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3YxeC9wbGF5ZXIucGhwP2lkPWFkc3RlQjFWYWJLZ044dlo="
+  },
+  {
+    "nombre": "Las Estrellas",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9jaGFubmVsMDEtb25seW1leC5ha2FtYWl6ZWQubmV0L2hscy9saXZlLzIwMjI3NDkvZXZlbnQwMS9pbmRleC5tM3U4"
+  },
+  {
+    "nombre": "Canal 9",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9Y2FuYWw5bXg="
+  },
+  {
+    "nombre": "Unicable",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByaS5waHA/aWQ9dW5pY2FibGU="
+  },
+  {
+    "nombre": "Eurochannel",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9ZXVyb2NoYW5uZWw="
+  },
+  {
+    "nombre": "Europa Europa",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9ZXVyb3Bh"
+  },
+  {
+    "nombre": "Rai Italia",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3RybS9yYWkucGhw"
+  },
+  {
+    "nombre": "El Gourmet",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2xhdGFtLnBocD9jYW5hbD1nb3VybWV0"
+  },
+  {
+    "nombre": "Food Network",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2l6L2Zvb2QucGhw"
+  },
+  {
+    "nombre": "Lifetime",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9bGlmZXRpbWU="
+  },
+  {
+    "nombre": "TVE",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9ydHZlbGl2ZXN0cmVhbS5ydHZlLmVzL3J0dmVzZWMvaW50L3R2ZWlfYW1lX21haW5fZHZyLm0zdTg="
+  },
+  {
+    "nombre": "Star TVE",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9ydHZlbGl2ZXN0cmVhbS5ydHZlLmVzL3J0dmVzZWMvaW50L3N0YXJfbWFpbl9kdnIubTN1OA=="
+  },
+  {
+    "nombre": "TVE 24hrs",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/hls.php?get=Ly9ydHZlbGl2ZXN0cmVhbS5ydHZlLmVzL3J0dmVzZWMvMjRoLzI0aF9tYWluX2R2ci5tM3U4"
+  },
+  {
+    "nombre": "Teledeportes",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9ydHZlbGl2ZXN0cmVhbS5ydHZlLmVzL3J0dmVzZWMvdGRwL3RkcF9tYWluX2R2ci5tM3U4"
+  },
+  {
+    "nombre": "TVE Clan",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/hls.php?get=Ly9ydHZlbGl2ZXN0cmVhbS5ydHZlLmVzL3J0dmVzZWMvaW50L2NsYW5faW50X21haW5fZHZyLm0zdTg="
+  },
+  {
+    "nombre": "AMC Break",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YW1jYnJlYWs="
+  },
+  {
+    "nombre": "AMC Crimen",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YW1jcmltZQ=="
+  },
+  {
+    "nombre": "DARK",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9ZGFyaw=="
+  },
+  {
+    "nombre": "DKiss",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9ZGtpc3M="
+  },
+  {
+    "nombre": "Dmax",
+    "logo": "https://peticion.com/logo.png",
+    "url": "HTTPS://telegratuita.Net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2NoL2RtYXgucGhw"
+  },
+  {
+    "nombre": "Odisea",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9b2Rpc2Vh"
+  },
+  {
+    "nombre": "Be Mad",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YmVtYWQ="
+  },
+  {
+    "nombre": "Divinity",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9ZGl2aW5pdHk="
+  },
+  {
+    "nombre": "Energy",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9ZW5lcmd5"
+  },
+  {
+    "nombre": "Factoria de ficcion",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9ZmRm"
+  },
+  {
+    "nombre": "Neox",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9bmVveA=="
+  },
+  {
+    "nombre": "Nova",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9bm92YQ=="
+  },
+  {
+    "nombre": "Canal HolLywood",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9Y2FuYWxob2xseXdvb2Q="
+  },
+  {
+    "nombre": "Calle 13",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9Y2FsbGUxMw=="
+  },
+  {
+    "nombre": "Mega España",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9bWVnYQ=="
+  },
+  {
+    "nombre": "Historia",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9aGlzdG9yaWE="
+  },
+  {
+    "nombre": "Axn Movies",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YXhubW92aWVz"
+  },
+  {
+    "nombre": "Canal Cocina",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9Y2FuYWxjb2NpbmE="
+  },
+  {
+    "nombre": "A Punt",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/hls.php?get=Ly9iY292bGl2ZS1hLmFrYW1haWhkLm5ldC84NDk5ZDkzOGVmOTA0ZTM5YjU4YTRhZGVjMmRkZWFkYS9ldS13ZXN0LTEvNjA1Nzk1NTg4NTAwMS9wbGF5bGlzdF9kdnIubTN1OA=="
+  },
+  {
+    "nombre": "Buen Viaje",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9YnVlbnZpYWpl"
+  },
+  {
+    "nombre": "D Casa",
+    "logo": "https://peticion.com/logo.png",
+    "url": "HTTPS://telegratuita.org/repro/?r=L3Byby9kZWNhc2EucGhw"
+  },
+  {
+    "nombre": "En Familia",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L3Byby9lbmZhbWlsaWEucGhw"
+  },
+  {
+    "nombre": "XTRM",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9eHRybQ=="
+  },
+  {
+    "nombre": "Canal Sur",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=Ly93d3cueW91dHViZS5jb20vZW1iZWQvbGl2ZV9zdHJlYW0/Y2hhbm5lbD1VQ2h0TGdIN1pKTHFMR1dKcEJuenk5TGcmcmVsPTAmbW9kZXN0YnJhbmRpbmc="
+  },
+  {
+    "nombre": "TV3 Cat",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9kaXJlY3RlczMtdHYtaW50LjNjYXRkaXJlY3Rlcy5jYXQvbGl2ZS1jb250ZW50L3R2aS1obHMvbWFzdGVyLm0zdTg="
+  },
+  {
+    "nombre": "Sun Dance Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9c3VuZGFuY2V0dg=="
+  },
+  {
+    "nombre": "Canal Extramadura",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9jYW5hbGV4dHJlbWFkdXJhLWxpdmUuZmx1bW90aW9uLmNsb3VkL2NhbmFsZXh0cmVtYWR1cmEvbGl2ZV9hbGwvcGxheWxpc3RfZHZyLm0zdTg="
+  },
+  {
+    "nombre": "Hola Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/repro/?r=L2lwdHYucGhwP2NoYW5uZWw9aG9sYQ=="
+  },
+  {
+    "nombre": "Hola Play",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9ob2xhLXBsYXktMjEwOGZkMDYtODZkNC00NGU4LTk4NjctYzM1YjQ4OTVhMWMxLWVzLmZhc3QucmFrdXRlbi50di92MS9tYXN0ZXIvMDU0N2YxODY0OWJkNzg4YmVjN2I2N2I3NDZlNDc2NzBmNTU4YjZiMi9wcm9kdWN0aW9uLUxpdmVDaGFubmVsLTY0MzMvbWFzdGVyLm0zdTg="
+  },
+  {
+    "nombre": "Hola Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly90ZWxlbWFkcmlkLTIzLXNlY3VyZTIuYWthbWFpemVkLm5ldC9tYXN0ZXIubTN1OA=="
+  },
+  {
+    "nombre": "Hola Internacional",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9uZXctaW50ZXJuYXRpb25hbC0yMy1zZWN1cmUyLmFrYW1haXplZC5uZXQvaW5kZXgubTN1OA=="
+  },
+  {
+    "nombre": "Trece Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9wbGF5LmNkbi5lbmV0cmVzLm5ldC8wOTFEQjdBRkJENzc0NDJCOUJBMkYxNDFEQ0MxODJGNTAyMS8wMjEvcGxheWxpc3QubTN1OA=="
+  },
+  {
+    "nombre": "Euronews",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9kMzVqNTA0ejB4MnZ1Mi5jbG91ZGZyb250Lm5ldC92MS9tYXN0ZXIvMGJjOGU4Mzc2YmQ4NDE3YTFiNjc2MTEzOGFhNDFjMjZjNzMwOTMxMi9ldXJvbmV3cy1zcGEvZXVyb25ld3MtZXMubTN1OA=="
+  },
+  {
+    "nombre": "Hispan Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9saXZlLnByZXNzdHYuaXIvaGxzL2hpc3BhbnR2Lm0zdTg="
+  },
+  {
+    "nombre": "RT Español",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9ydC1lc3AucnR0di5jb20vZHZyL3J0ZXNwL3BsYXlsaXN0Lm0zdTg="
+  },
+  {
+    "nombre": "RT Ingles",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9ydW1ibGUuY29tL2xpdmUtaGxzLWR2ci8zM2F3MWEvcGxheWxpc3QubTN1OA=="
+  },
+  {
+    "nombre": "CGTN Español",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9lc3Bhbm9sLWxpdmV3cy5jZ3RuLmNvbS9obHMvTFN2ZU9HQmFCdzQxRWE3dWtrVkFVZEtRMjIwODAyTFNUZXh1NnhBdUZIOFZaTkJMRTFaTkVhMjIwODAyY2QvcGxheWxpc3QubTN1OA=="
+  },
+  {
+    "nombre": "CGTN Ingles",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.Net/hls.php?get=Ly9lbmdsaXNoLWxpdmVia2FsaS5jZ3RuLmNvbS9saXZlL2VuY2d0bi5tM3U4"
+  },
+  {
+    "nombre": "Garaje Tv",
+    "logo": "https://peticion.com/logo.png",
+    "url": "HTTPS://telegratuita.Net/repro/?r=L3BocC9mbC8/Z2V0PVJXeGZSMkZ5WVdkbA=="
+  },
+  {
+    "nombre": "Fox Sports Mexico",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9Zm94MW14"
+  },
+  {
+    "nombre": "Fox Sports Mexico 2",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9Zm94Mm14"
+  },
+  {
+    "nombre": "Fox Sports 3 Mexico",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9Zm94M214"
+  },
+  {
+    "nombre": "Fox Sports Premium",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9Zm94cHJlbWl1bXg="
+  },
+  {
+    "nombre": "Fox Deportes",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9Zm94ZGVwb3J0ZXM="
+  },
+  {
+    "nombre": "Sky sports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9c2t5YnVuZGVzbGlnYWhk"
+  },
+  {
+    "nombre": "DSports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3ByZW1pdW0vcGxheWVyMS5waHA/Y2FuYWw9ZHNwb3J0cw=="
+  },
+  {
+    "nombre": "DSports 2",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMudG9wL2dsei5waHA/Z2V0PWh0dHBzOi8vYm9sYWxvY2EubXkvcGxheWVyLzMvOTU="
+  },
+  {
+    "nombre": "DSports+",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2dsb2JhbDEucGhwP3N0cmVhbT1kc3BvcnRzcGx1cw=="
+  },
+  {
+    "nombre": "WinSports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L2dsb2JhbDEucGhwP3N0cmVhbT13aW5wbHVz"
+  },
+  {
+    "nombre": "L1max",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.org/repro/?r=L3NwLnBocD9nZXQ9aHR0cHM6Ly9ib2xhbG9jYS5teS9wbGF5ZXIvMy84NA=="
+  },
+  {
+    "nombre": "TNT SPORTS",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3NwLnBocD9nZXQ9aHR0cHM6Ly9ib2xhbG9jYS5teS9wbGF5ZXIvMy84Mw=="
+  },
+  {
+    "nombre": "VTV Plus",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3NwLnBocD9nZXQ9aHR0cHM6Ly9ib2xhbG9jYS5teS9wbGF5ZXIvMy8xMDk="
+  },
+  {
+    "nombre": "TUDN",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL3R2L3Bydi5waHA/aWQ9dHVkbm14"
+  },
+  {
+    "nombre": "TUDN USA",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3NwLnBocD9nZXQ9aHR0cHM6Ly9ib2xhbG9jYS5teS9wbGF5ZXIvMy82OA=="
+  },
+  {
+    "nombre": "beINSports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3NwLnBocD9nZXQ9aHR0cHM6Ly9ib2xhbG9jYS5teS9wbGF5ZXIvMy82OQ=="
+  },
+  {
+    "nombre": "Claro Sports",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9Y2xhcm9zcG9ydHM="
+  },
+  {
+    "nombre": "Claro Sports 2",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=Ly90ZWxlZGVwb3J0ZXMub3JnL2dyL3Bydi5waHA/aWQ9Y2xhcm9zcG9ydHMy"
+  },
+  {
+    "nombre": "Canal del Futbol",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://telegratuita.net/repro/?r=L3NwLnBocD9nZXQ9aHR0cHM6Ly9ib2xhbG9jYS5teS9wbGF5ZXIvMy8xMDk="
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  },
+  {
+    "nombre": "azteca 7",
+    "logo": "https://peticion.com/logo.png",
+    "url": "https://cors-proxy.cooks.fyi/https://clarovideo.playsito3.boutique/embed/hbo2.php"
+  }
+]
