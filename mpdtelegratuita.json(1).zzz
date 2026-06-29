@@ -9,7 +9,7 @@
     "logo": "http://ceoapps.org/logos/multimedios2.png",
     "url": "https://raw.githubusercontent.com/shundearies/Canales-Iptv/refs/heads/main/mylist.m3u8",
     "contrasena": "2345",
-    "reproductor": "inapp_webview_player"
+    "reproductor": "webview_screen2"
   },
     {
     "nombre": "Mutimedios Monterrey",
