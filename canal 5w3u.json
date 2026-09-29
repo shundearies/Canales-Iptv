@@ -1,0 +1,24 @@
+{
+  "name": "Lista Personalizada",
+  "author": "Deportes",
+  "image": "https://i.ibb.co/V310Z0q/canal5.png",
+  "groups": [
+    {
+      "name": "Deportes",
+      "image": "https://i.ibb.co/V310Z0q/canal5.png",
+      "stations": [
+        {
+          "name": "CANAL 5 VIX",
+          "image": "https://i.ibb.co/V310Z0q/canal5.png",
+          "url": "https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd",
+          "import": false,
+          "isHost": false,
+          "isHostHeader": false,
+          "userAgent": "AivAndroidPlayer/1.0 (AndroidDevice)",
+          "referer": "https://www.primevideo.com/",
+          "clearkey": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4"
+        }
+      ]
+    }
+  ]
+}
